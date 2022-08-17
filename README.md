@@ -25,5 +25,5 @@ GOOOOGGGGLEEE: valido
 Isso ocorre pois o programa leu todas as letras que formam `GOOGLE`, e consequentemente é aceito.
 
 # Autômato Finito Deterministico
-![automato description](https://github.com/malumsz/trabtc/automato.png)
+![automato description](https://github.com/malumsz/trabtc/blob/main/automato.png)
 
