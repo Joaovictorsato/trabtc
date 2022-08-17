@@ -1,4 +1,4 @@
-# Automatôs Finitos
+# Autômatos Finitos
 Implementação de um autômato finito em JAVA com linguagem regular.
 
 Sua principal função é identificar uma sequência de caracteres que formam uma palavra específica dentro de um texto.
